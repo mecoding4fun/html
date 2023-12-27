@@ -123,3 +123,12 @@ color: #61DAFB;
     flex-wrap: wrap;
     justify-content:space-evenly;
 }
+.item{
+    position: relative;
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
