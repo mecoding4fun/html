@@ -132,3 +132,9 @@ color: #61DAFB;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+.card p{
+    color: white;
+    text-align: center;
+    font-style: normal;
+    font-size: 17px;
+}
